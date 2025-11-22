@@ -5,11 +5,11 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education							       		
-- M.S., Business Analytics	| University of Louisville (_August 2023_)	 			        		
-- B.S., Finance | University of Louisville (_May 2021_)
+- M.S., Business Analytics	| University of Louisville 	 			        		
+- B.S., Finance | University of Louisville 
 - Project Management Certification | eCornell
 ## Work Experience
-**Senior Data Scientist Analyst @ Discover Financial Services (_March 2025 - November 2025_)**
+**Senior Data Scientist Analyst @ Capital One (_March 2025 - November 2025_)**
 - 
 - 
 
@@ -18,6 +18,10 @@
 - 
 
 **Financial Analyst - Group FP&A, Materials @ GE Appliances (_December 2020 - Present_)**
+- 
+- 
+
+**Financial Analyst Intern - Commercial @ GE Appliances (_December 2020 - Present_)**
 - 
 - 
 
