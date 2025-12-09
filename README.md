@@ -9,7 +9,7 @@
 - B.S., Finance | University of Louisville 
 - Project Management Certification | eCornell
 ## Work Experience
-**Senior Data Scientist Analyst @ Capital One (_March 2025 - November 2025_)**
+**Senior Data Scientist Analyst - Fraud Authentication Strategy @ Capital One (_March 2025 - November 2025_)**
 - 
 - 
 
