@@ -8,6 +8,7 @@
 - M.S., Business Analytics	| University of Louisville 	 			        		
 - B.S., Finance | University of Louisville 
 - Project Management Certification | eCornell
+- Introduction to Python | DataCamp
 ## Work Experience
 **Senior Data Scientist Analyst - Fraud Authentication Strategy @ Capital One (_March 2025 - November 2025_)**
 - 
