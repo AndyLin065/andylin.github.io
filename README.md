@@ -24,7 +24,7 @@
 - 
 - 
 
-**Financial Analyst Intern - Commercial @ GE Appliances (_December 2020 - Present_)**
+**Financial Analyst Intern - Commercial @ GE Appliances (_December 2020 - July 2021_)**
 - 
 - 
 
