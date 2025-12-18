@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, Oracle, GCP, MATLAB, Numpy, Pandas, R
+#### Technical Skills: Python, SQL, AWS, Snowflake, Oracle, GCP, MATLAB, Numpy, Pandas, R, matplotlib.pyplot
 
 ## Education							       		
 - M.S., Business Analytics	| University of Louisville 	 			        		
