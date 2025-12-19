@@ -11,6 +11,8 @@
 - Introduction to Python | DataCamp
 - AirBnB Project | DataCamp
 - Intermediate Python | DataCamp
+- AI Engineer Bootcamp | Udemy
+  
 ## Work Experience
 **Senior Data Scientist Analyst - Fraud Authentication Strategy @ Capital One (_March 2025 - November 2025_)**
 - 
