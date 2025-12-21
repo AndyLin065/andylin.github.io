@@ -18,11 +18,11 @@
 - 
 - 
 
-**Business Intelligence Analyst - Pricing @ The Home Depot (_December 2020 - Present_)**
+**Business Intelligence Analyst - Pricing @ The Home Depot (_May 2024 - Mar 2025_)**
 - 
 - 
 
-**Financial Analyst - Group FP&A, Materials @ GE Appliances (_December 2020 - Present_)**
+**Financial Analyst - Group FP&A, Materials @ GE Appliances (_August 2021 - May 2024_)**
 - 
 - 
 
