@@ -8,6 +8,7 @@
 - M.S., Business Analytics	| University of Louisville 	 			        		
 - B.S., Finance | University of Louisville 
 - Project Management Certification | eCornell
+- Associate Data Scientist in Python | DataCamp
 - Introduction to Python | DataCamp
 - AirBnB Project | DataCamp
 - Intermediate Python | DataCamp
