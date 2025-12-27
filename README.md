@@ -3,7 +3,7 @@
 # Data Scientist
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, Oracle, GCP, MATLAB, Numpy, Pandas, R, matplotlib.pyplot
-Oracle(Hyperion, OCI, OAC, OBIEE, OBIA, Operaational Modules)
+Oracle(Hyperion, OCI, OAC, OBIEE, OBIA, Operational Modules)
 
 ## Education							       		
 - M.S., Business Analytics	| University of Louisville 	 			        		
