@@ -3,11 +3,11 @@
 # Data Scientist
 
 #### Technical Skills: SQL, Excel, R, Python(MATLAB, Numpy, Pandas, matplotlib.pyplot)
-Data Visualization: Tableau, Power BI
-Project Management: Jira, Service Now, Scrum, Agile
-Systems: Oracle (Hyperion, OCI, OAC, OBIEE, OBIA, Operational Modules), Snowflake, AWS, GCP, Vertica, SQL Server, DataLake
-AI Tools: ChatGPT, Gemini, Claude, Microsoft Copilot
-Business Flow: Visio, Lucid Chart
+#Data Visualization: Tableau, Power BI
+#Project Management: Jira, Service Now, Scrum, Agile
+#Systems: Oracle (Hyperion, OCI, OAC, OBIEE, OBIA, Operational Modules), Snowflake, AWS, GCP, Vertica, SQL Server, DataLake
+#AI Tools: ChatGPT, Gemini, Claude, Microsoft Copilot
+#Business Flow: Visio, Lucid Chart
 
 ## Education							       		
 - M.S., Business Analytics	| University of Louisville 	 			        		
