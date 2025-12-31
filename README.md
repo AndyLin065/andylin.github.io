@@ -36,8 +36,11 @@
 - AirBnB Project | DataCamp
 - Intermediate Python | DataCamp
 - AI Engineer Bootcamp | Udemy
+  
 ## Projects
-AirBnB
+AirBnB (Python)
+Hacker Statistics (Python)
+
 ### Crpyto API
 Link:
 
