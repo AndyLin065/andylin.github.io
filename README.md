@@ -38,9 +38,9 @@
 - AI Engineer Bootcamp | Udemy
   
 ## Projects
-Soccer Stats (R)
-AirBnB (Python)
-Hacker Statistics (Python)
+- Soccer Stats (R)
+- AirBnB (Python)
+- Hacker Statistics (Python)
 
 ### Crpyto API
 Link:
