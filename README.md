@@ -40,7 +40,8 @@
 ## Projects
 - Soccer Stats (R)
 - AirBnB (Python)
-- Hacker Statistics (Python)
+- PowerBI
+- Tableau
 
 ### Crpyto API
 Link:
