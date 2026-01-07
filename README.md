@@ -46,8 +46,5 @@
 ### Crpyto API
 Link:
 
-Description:
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 
