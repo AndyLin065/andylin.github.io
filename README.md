@@ -16,19 +16,19 @@
 ## Work Experience
 **Senior Data Scientist Analyst - Fraud Authentication Strategy @ Capital One (_March 2025 - November 2025_)**
 - 
-- 
+ 
 
 **Business Intelligence Analyst - Pricing @ The Home Depot (_May 2024 - Mar 2025_)**
 - 
-- 
+ 
 
 **Financial Analyst - Group FP&A, Materials @ GE Appliances (_August 2021 - May 2024_)**
 - 
-- 
+
 
 **Financial Analyst Intern - Commercial @ GE Appliances (_December 2020 - July 2021_)**
 - 
-- 
+
 ## Certifications
 - Project Management Certification | eCornell
 - Associate Data Scientist in Python | DataCamp
@@ -42,9 +42,8 @@
 - AirBnB (Python)
 - PowerBI
 - Tableau
+- Crpyto API
 
-### Crpyto API
-Link:
 
 
 
