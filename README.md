@@ -43,7 +43,7 @@
 - PowerBI
 - Tableau
 - Crpyto API
-
+- Crypto Dashboard (Power BI)
 
 
 
