@@ -40,8 +40,8 @@
 ## Projects
 - Soccer Stats (R)
 - AirBnB (Python)
-- PowerBI
-- Tableau
+- PowerBI Profile
+- Tableau Public Profile
 - Crpyto API
 - Crypto Dashboard (Power BI)
 
