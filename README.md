@@ -33,6 +33,7 @@
 - Project Management Certification | eCornell
 - Associate Data Scientist in Python | DataCamp
 - Introduction to Python | DataCamp
+- Intermediate Python | DataCamp
 - AirBnB Project | DataCamp
 - Intermediate Python | DataCamp
 - AI Engineer Bootcamp | Udemy
@@ -44,6 +45,6 @@
 - Tableau Public Profile
 - Crpyto API
 - Crypto Dashboard (Power BI)
-
+- Investigating Netflix Movies (Python)
 
 
