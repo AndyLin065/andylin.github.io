@@ -8,6 +8,7 @@
 ## Systems: Oracle (Hyperion, OCI, OAC, OBIEE, OBIA, Operational Modules), Snowflake, AWS, GCP, Vertica, SQL Server, DataLake
 ## AI Tools: ChatGPT, Gemini, Claude, Microsoft Copilot
 ## Business Flow: Visio, Lucid Chart
+## ETL/ELT Tools: Tableau Prep Builder, Airflow
 
 ## Education							       		
 - M.S., Business Analytics	| University of Louisville 	 			        		
