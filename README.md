@@ -1,6 +1,6 @@
 # andylin.github.io
 
-# Data Scientist
+# Data & Financial Analytics Professional
 
 #### Technical Skills: SQL, Excel, R, Python(MATLAB, Numpy, Pandas, matplotlib.pyplot)
 ## Data Visualization: Tableau, Power BI
