@@ -48,4 +48,11 @@
 - Crypto Dashboard (Power BI)
 - Investigating Netflix Movies (Python)
 
+## Interests
+- Basketball
+- Tennis
+- Stocks
+- Running
+- Outdoors
+- Weightlifting
 
