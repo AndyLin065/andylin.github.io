@@ -2,7 +2,7 @@
 
 # Data & Financial Analytics Professional
 
-#### Technical Skills: SQL, SAS, Excel, R, Python(MATLAB, Numpy, Pandas, matplotlib.pyplot)
+#### Technical Skills: SQL, SAS, Excel, R, Python(MATLAB, Numpy, Pandas, matplotlib.pyplot, sklearn)
 ## Data Visualization: Tableau, Power BI
 ## Project Management: Jira, Service Now, Scrum, Agile
 ## Systems: Oracle (Hyperion, OCI, OAC, OBIEE, OBIA, Operational Modules), Snowflake, AWS, GCP, Vertica, SQL Server, DataLake
