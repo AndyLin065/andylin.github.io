@@ -48,6 +48,14 @@
 - Crypto Dashboard (Power BI)
 - Investigating Netflix Movies (Python)
 
+## Domain Knowledge
+- Fulfilment
+- Commercial
+- Fruad
+- Pricing
+- Retail
+- Manufacturing
+
 ## Interests
 - Basketball
 - Tennis
