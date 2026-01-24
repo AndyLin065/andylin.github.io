@@ -56,6 +56,7 @@
 - Pricing
 - Retail
 - Manufacturing
+- Banking
 
 ## Interests
 - Basketball
