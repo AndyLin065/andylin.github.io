@@ -47,7 +47,7 @@
 - Crpyto API
 - Crypto Dashboard (Power BI)
 - Investigating Netflix Movies (Python)
-- Ask About Me (AI ChatBot)
+- Ask About Me (AI ChatBot, LangChain)
 
 ## Domain Knowledge
 - Fulfilment
