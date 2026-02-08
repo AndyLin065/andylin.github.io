@@ -65,4 +65,5 @@
 - Running
 - Outdoors
 - Weightlifting
+- Crypto
 
